@@ -1,0 +1,8 @@
+h1{
+    color: rgb(255,0,0);
+    text-align:center;
+    text-transform: uppercase;
+    text-indent: 40px;
+    text-decoration: underline dotted 4px green;
+    text-shadow: 3px 5px 0px blue;
+}
